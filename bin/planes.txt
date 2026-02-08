@@ -1,0 +1,5 @@
+PL-2;Lockheed-554;2;2;6;8
+PL-1;Boeing-747;4;5;10;6
+PL-3;AVIATOR-200;2;4;10;6
+PL-4;Airbus-A320;3;2;15;6
+PL-5;Boeing-777;5;4;20;9

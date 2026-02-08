@@ -1,0 +1,5 @@
+basePrice=100.0
+tax=50.0
+baggageFeePerKg=15.0
+businessMultiplier=2.0
+durationCostPerMinute=1.5

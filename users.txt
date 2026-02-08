@@ -1,0 +1,14 @@
+Adam;adam123;USER;ID-1767918189964;What is your pet's name?;Furball
+Salamander;targon;STAFF;ID-1767918248243;What is your favorite color?;purple
+Thomas;puffy123;USER;ID-1767918846098;What is your pet's name?;puffy
+KimLee;chowmeinlover123;USER;ID-1767919039011;What city were you born in?;Beijing
+TucoSalamanca;hector;STAFF;ID-1767919196858;What city were you born in?;New Mexico
+MasterAdmin;root123;ADMIN;ID-1767920001000;What is your favorite food?;Pizza
+SarahConnor;skynet;USER;ID-1767920002001;What is your mother's maiden name?;Vorg
+JohnWick;daisy;USER;ID-1767920003005;What is your dog's name?;Daisy
+EmilyBlunt;marypoppins;STAFF;ID-1767920004010;What is your favorite movie?;Edge of Tomorrowaltan;123;USER;ID-1767970548540;What is your pet's name?;123
+altan;123;USER;ID-1767970562092;What is your pet's name?;123
+dorner;baba;USER;ID-1767970586811;What is your pet's name?;a
+abc;cba;USER;ID-1767970602741;What is your favorite color?;1
+user;user;USER;ID-1768131649506;What is your pet's name?;puff
+staff;staff;STAFF;ID-1768131751696;What city were you born in?;s
